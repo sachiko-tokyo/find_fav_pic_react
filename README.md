@@ -21,4 +21,3 @@ link: https://sachiko0811.github.io/FindYourFavPic
 ・Fetching Unsplash API to show seached images
 
 ・Using Semantic UI and Ant Design for search and pagination
-# find_fav_pic_react
